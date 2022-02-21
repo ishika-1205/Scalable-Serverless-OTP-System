@@ -2,6 +2,10 @@
 
 This project focuses on making OTP System as a service. Client can send request to Routes and can verify his users using this project. It had the backend code running in AWS and Frontend is made with React and hosted on netlify.
 
+## Hosted Url
+
+Check the project from [here](https://otpsystem.netlify.app/)
+
 ## Main Features
 
 * It takes email fom the frontend and sends email with an OTP to it.
@@ -72,9 +76,9 @@ yarn run
  
  ## Contributers
  
- >Ishika Chauhan (2020IMT041)
+ >[Ishika Chauhan (2020IMT041)](ranjithjupaka/winterproject)
  
- >Ranjith Jupaka (2020IMT042)
+ >[Ranjith Jupaka (2020IMT042)](https://github.com/ranjithjupaka)
  
   
 
